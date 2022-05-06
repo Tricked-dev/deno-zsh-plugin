@@ -2,6 +2,12 @@
 
 Automatically installs deno to `$HOME/.deno` on startup if deno is not already installed
 
+## Installing
+
+### Zinit
+
+zinit load Tricked-dev/deno-zsh-plugin
+
 ## Completions
 
 For completions i would recomend you use [NotTheDr01ds/zsh-plugin-deno](https://github.com/NotTheDr01ds/zsh-plugin-deno)
